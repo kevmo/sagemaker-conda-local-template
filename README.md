@@ -1,7 +1,3 @@
-Of course! Here's a sample `README.md` for your SageMaker development environment:
-
----
-
 # SageMaker Development Environment
 
 This repository provides a template to kickstart your SageMaker development projects. It sets up a structured directory, creates an Anaconda environment, and installs necessary packages like SageMaker, MXNet, and PyTorch.
@@ -35,10 +31,7 @@ cd my_sagemaker_project
 
 * **Setup Everything**
   Simply run:
-  <pre><div class="bg-black rounded-md mb-4"><div class="flex items-center relative text-gray-200 bg-gray-800 px-4 py-2 text-xs font-sans justify-between rounded-t-md"><span>arduino</span></div></div></pre>
-
-1. <pre><div class="bg-black rounded-md mb-4"><div class="p-4 overflow-y-auto"><code class="!whitespace-pre hljs language-arduino">make setup
-   </code></div></div></pre>
+  `make setup`
 
    This command will:
 
